@@ -1,0 +1,18 @@
+CONTAINER ID   IMAGE                  COMMAND                  CREATED         STATUS                     PORTS                                       NAMES
+62123adfe586   sampleapp              "/bin/sh -c 'python3…"   5 minutes ago   Up 5 minutes               0.0.0.0:8080->8080/tcp, :::8080->8080/tcp   samplerunning
+4acf07765156   ubuntu                 "/bin/bash"              6 days ago      Exited (0) 6 days ago                                                  wonderful_borg
+377979eed23a   lltv/apache-test:1.0   "/bin/bash"              2 weeks ago     Created                                                                interesting_euclid
+cf9d14fd7312   ubuntu                 "/bin/bash"              2 weeks ago     Exited (255) 6 days ago                                                optimistic_matsumoto
+6b9203e78367   ubuntu                 "/bin/bash"              2 weeks ago     Exited (255) 6 days ago    0.0.0.0:8080->80/tcp, :::8080->80/tcp       sleepy_albattani
+c7735acfd1bf   ubuntu                 "/bin/bash"              2 weeks ago     Exited (255) 6 days ago                                                awesome_hawking
+49cd7ad36f63   ubuntu                 "/bin/bash"              2 weeks ago     Exited (127) 2 weeks ago                                               recursing_dhawan
+0f03625020c3   6efc10a0510f           "/docker-entrypoint.…"   2 weeks ago     Exited (255) 6 days ago    80/tcp                                      nostalgic_kare
+bfe7e3544bbe   ubuntu                 "/bin/bash"              2 weeks ago     Exited (0) 2 weeks ago                                                 zen_poincare
+af4ae2226a61   ubuntu                 "/bin/bash"              2 weeks ago     Exited (127) 2 weeks ago                                               compassionate_lovelace
+fb33db5bd1fd   ubuntu                 "/bin/bash"              2 weeks ago     Exited (0) 2 weeks ago                                                 pensive_gates
+6cf821861f73   ubuntu                 "/bin/bash"              2 weeks ago     Exited (0) 2 weeks ago                                                 condescending_pascal
+66eb5e4dc30a   ubuntu                 "/bin/bash"              2 weeks ago     Exited (0) 2 weeks ago                                                 ecstatic_shirley
+b2efae67f778   ubuntu                 "/bin/bash"              2 weeks ago     Exited (129) 2 weeks ago                                               great_jepsen
+62f03d4eba62   ubuntu                 "/bin/bash"              2 weeks ago     Exited (0) 2 weeks ago                                                 xenodochial_perlman
+1e126202c9a6   feb5d9fea6a5           "/hello"                 2 weeks ago     Exited (0) 2 weeks ago                                                 clever_brattain
+b92c75427379   feb5d9fea6a5           "/hello"                 2 weeks ago     Exited (0) 2 weeks ago                                                 flamboyant_maxwell
